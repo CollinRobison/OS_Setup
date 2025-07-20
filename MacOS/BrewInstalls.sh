@@ -10,6 +10,8 @@ casks=(
   docker
   calibre
   brave-browser
+  # Loop Window Manager -  https://github.com/MrKai77/Loop?tab=readme-ov-file#features
+  loop
 )
 
 for cask in "${casks[@]}"; do
