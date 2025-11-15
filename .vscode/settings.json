@@ -1,6 +1,10 @@
 {
     "cSpell.words": [
+        "chflags",
         "iterm",
-        "neofetch"
-    ]
+        "killall",
+        "neofetch",
+        "nohidden"
+    ],
+    "cSpell.enabled": false
 }
