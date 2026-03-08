@@ -12,6 +12,12 @@ casks=(
   brave-browser
   # Loop Window Manager -  https://github.com/MrKai77/Loop?tab=readme-ov-file#features
   loop
+  # Macbook Dynamic Island - https://github.com/TheBoredTeam/boring.notch/
+  TheBoredTeam/boring-notch/boring-notch
+  # Non-Apple Mouse Utility - https://github.com/noah-nuebling/mac-mouse-fix
+  mac-mouse-fix
+  # Monitor Control - External Monitor Utility - http://github.com/MonitorControl/MonitorControl
+  monitorcontrol
 )
 
 for cask in "${casks[@]}"; do
@@ -21,6 +27,7 @@ done
 formulae=(
   bash
   git
+  copilot-cli
 )
 
 for formula in "${formulae[@]}"; do
