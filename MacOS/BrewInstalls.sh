@@ -28,6 +28,7 @@ formulae=(
   bash
   git
   copilot-cli
+  anomalyco/tap/opencode
 )
 
 for formula in "${formulae[@]}"; do
